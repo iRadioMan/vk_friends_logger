@@ -1,0 +1,7 @@
+/__pycache__/*
+/OLD/*
+account.txt
+log.txt
+oldfriends.txt
+vk_config.json
+*.pyc
