@@ -11,7 +11,7 @@ global user_password
 
 print('------------------------------')
 print('Логгер друзей ВК | by RadioMan')
-print('   ver 02.11.2016 build 945')
+print('   ver 03.11.2016 build 1501')
 print('------------------------------')
 print('Авторизация...')
 
