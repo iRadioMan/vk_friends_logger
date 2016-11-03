@@ -71,7 +71,7 @@ while True:
 		else:		
 			friends_now = vk.friends.get()
 			f = open('log.txt', 'a')
-			f.write(s_processing + '\n')
+			f.write(t_processing + '\n')
 			
 			for human_id in friends_before['items']:
 				if human_id not in friends_now['items']:
